@@ -23,11 +23,8 @@ Each notebook follows a structured approach:
 ## 📁 Repository Structure  
 
 📂 data-science-projects/
-- car_price_prediction.ipynb
-- customer_activity_analysis.ipynb
-- churn_prediction.ipynb
-- product_recommendations.ipynb
-- milk_yield_forecast.ipynb
+- Customer Age Detection.ipynb
+- Customer Churn Prediction.ipynb
 - README.md
 
 > Each project is presented as a standalone Jupyter Notebook (`.ipynb`), including all steps — data preprocessing, modeling, and conclusions.
