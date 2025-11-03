@@ -32,6 +32,8 @@ Each notebook follows a structured approach:
 
 > Each project is presented as a standalone Jupyter Notebook (`.ipynb`), including all steps — data preprocessing, modeling, and conclusions.
 
+> Quik note: some of my projects are transalated from Russian. To minimize possible mistakes AI tools we used. 
+
 ---
 
 ## 🧩 Key Topics & Techniques  
